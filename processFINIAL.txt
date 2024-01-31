@@ -1,0 +1,5 @@
+CPU utilatiazion = 87.50 
+average turnaround time = 9.83 
+average waited turn arround time 3.47 
+the Standererd WTA is 1.44 
+ 

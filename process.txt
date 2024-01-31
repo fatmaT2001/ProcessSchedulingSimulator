@@ -1,0 +1,17 @@
+#At time x process y state arr w total z remain y wait k
+at time = 1  process with id =1   started  at time 1  and waited for 0 
+at time = 3  process with id =1   stopped  at time 3  and waited for 0 
+at time = 3  process with id =3   started  at time 3  and waited for 0 
+at time = 4  process with id =3   stopped  at time 4  and waited for 0 
+at time = 5  process with id =4   started  at time 5  and waited for 1 
+at time = 7  process with id =4   finished  at time 7  and waited for 1 and the TA time 3.00 and the WTA 1.50 
+at time = 7  process with id =5   started  at time 7  and waited for 2 
+at time = 12  process with id =5   finished  at time 12  and waited for 2 and the TA time 7.00 and the WTA 1.40 
+at time = 12  process with id =3   started  at time 12  and waited for 9 
+at time = 15  process with id =3   finished  at time 15  and waited for 9 and the TA time 12.00 and the WTA 4.00 
+at time = 15  process with id =1   started  at time 15  and waited for 14 
+at time = 19  process with id =1   finished  at time 19  and waited for 14 and the TA time 18.00 and the WTA 4.50 
+at time = 19  process with id =6   started  at time 19  and waited for 12 
+at time = 24  process with id =6   finished  at time 24  and waited for 12 and the TA time 17.00 and the WTA 3.40 
+at time = 24  process with id =2   started  at time 24  and waited for 21 
+at time = 29  process with id =2   finished  at time 29  and waited for 21 and the TA time 26.00 and the WTA 5.20 
